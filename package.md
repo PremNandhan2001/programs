@@ -38,18 +38,15 @@ Package can be loaded or imported by using the following syntaxes:-
    import numpy
 
 2) ### PyTorch
-3) ![](4.jpeg)
+   ![](4.png)
    PyTorch is a library for Python programs that facilitates building deep learning projects. We like Python because is easy to read and understand. PyTorch emphasizes flexibility and allows deep learning models to be expressed in idiomatic Python.
    In a simple sentence, think about Numpy, but with strong GPU acceleration. Better yet, PyTorch supports dynamic computation graphs that allow you to change how the network behaves on the fly, unlike static graphs that are used in frameworks such as Tensorflow.
    
-   #### Syntax to install and import Pendulum package
-   pip install pendulum
-   import pendulum
-4) ### SciPy
+3) ### SciPy
    ![](scipy.png)
    SciPy is an open-source Python package which is used to solve scientific and mathematical problems. It is built on the NumPy extension and allows the user to manipulate and visualize data with a wide range of high-level commands. Both NumPy and SciPy are Python libraries used for used mathematical and numerical analysis. NumPy contains array data and basic operations such as sorting, indexing, etc whereas, SciPy consists of all the numerical code. Though NumPy provides a number of functions that can help resolve linear algebra, Fourier transforms, etc, SciPy is the library that actually contains fully-featured versions of these functions along with many others. As mentioned earlier, SciPy builds on NumPy and therefore if you import SciPy, there is no need to import NumPy.
 
-5) #### MoviePy
+4) #### MoviePy
     ![](moviepy.jpg)
     MoviePy is to videos what Pillow is to images. It provides a range of functionality for common tasks associated with importing, modifying, and exporting video files. It also lets you do things like insert titles into videos or rotate videos 90 degrees (if for some reason you decide you want to do that).
 
