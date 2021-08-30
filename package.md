@@ -1,4 +1,3 @@
-![](1.png)                                                   
 # **Python Packages**    
 We learned that modules are files containing Python statements and definitions, like function and class definitions. We will learn in this chapter how to bundle multiple modules together to form a package.
 
