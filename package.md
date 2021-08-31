@@ -26,7 +26,7 @@ Package can be loaded or imported by using the following syntaxes:-
    simple_package.a.bar()
    simple_package.b.foo()
 
-## **Some important packages in Python** 
+## **Packages in Python** 
 1) ### Scrapy
    ![](3.jpg)
    Scrapy is a free and open-source web-crawling framework written in Python. Originally designed for web scraping, it can also be used to extract data using APIs or as a general-purpose web crawler.It is currently maintained by Zyte formerly Scrapinghub, a web-scraping development and services company.
